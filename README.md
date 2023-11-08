@@ -2,11 +2,10 @@
 
 Welcome to the Game Zone CRUD Operation MVC Project. This project is built using the Model-View-Controller (MVC) architectural pattern, and it allows you to manage games, their categories, descriptions, pictures, and supported devices. The project also integrates select2 and SweetAlert2 libraries to enhance the user experience.
 
-![Uploading 1.png…]()
-![Uploading 2.png…]()
+![1](https://github.com/Eng-Eslamayman/GameZone/assets/106927185/80038be0-5741-45ad-828c-78a32c0636d8)
+![2](https://github.com/Eng-Eslamayman/GameZone/assets/106927185/cfe37ab7-aafb-4de9-9164-b6c8aec88a64)
 ![3](https://github.com/Eng-Eslamayman/GameZone/assets/106927185/a25bc631-7a40-4a06-bb36-2f90264faf80)
-![Uploading 4.png…]()
-
+![4](https://github.com/Eng-Eslamayman/GameZone/assets/106927185/5b4ee763-37f2-459c-9eb2-17e16704da12)
 
 ## Table of Contents
 
